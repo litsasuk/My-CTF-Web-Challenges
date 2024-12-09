@@ -26,9 +26,8 @@
 
 1. 将phar文件编码为字符串
 2. 将编码后的phar字符串通过PHP_SESSION_UPLOAD_PROGRESS字段写入session文件中
-3. 利用伪协议消除session文件前后的垃圾字符
-4. 再次利用伪协议将phar文件还原到/tmp/tmp.tmp文件中
-5. 使用phar伪协议触发phar反序列化
+3. 利用伪协议消除session文件前后的垃圾字符并将phar文件还原到/tmp/tmp.tmp文件中
+4. 使用phar伪协议触发phar反序列化
 
 #### Inspiration
 
