@@ -8,5 +8,3 @@ COPY ./flag.sh /root
 COPY ./readflag /readsecret
 
 RUN chmod 755 /var/www/html && chown -R root:www-data /var/www/html && chmod 400 /root/flag && chmod 4111 /readflag && chmod +x /root/flag.sh && chmod 4111 /readsecret
-
-CMD ["sh", "-c", "/root/flag.sh"]
