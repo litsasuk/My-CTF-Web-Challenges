@@ -33,7 +33,7 @@
 
 出题思路主要是参考了orange师傅的两道题：One Line PHP Challenge以及Baby^h-master-php-2017，前者是orange师傅最喜欢的题目之一,后者是phar反序列化作为0day第一次出现在ctf题目当中。我将两道题的思路结合过后出了这么一道无文件上传的phar反序列化。
 
-题目描述是：Please take me back to the golden age of PHP😭.虽然php最近爆出了很多很生猛的trick，但是我还是希望借这些"过时"的思路和trick，带大家回到那个独属于php的黄金年代。
+题目描述是：Please take me back to the golden age of PHP😭.虽然php最近爆出了很多很生猛的漏洞，但是我还是希望借这些"过时"的思路和trick，带大家回到那个独属于php的黄金年代。
 
 #### Write Ups
 
