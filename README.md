@@ -61,9 +61,11 @@
 
 #### Solution
 
+- just a very ez sandbox bypass
+
 #### Inspiration
 
-参考了一位大佬的推文https://x.com/emil_lerner/status/1369221697145016322，当时觉得这个思路很妙就拿来出题了。研究了一下怎么构造出"/"但是由于和题目环境不太兼容然后就没考。
+参考了一位大佬的推文https://x.com/emil_lerner/status/1369221697145016322，当时觉得这个思路很妙就拿来出题了。研究了一下怎么构造出"/"但是由于和题目环境不太兼容然后就没考这个点。
 
 #### Write Ups
 
