@@ -40,3 +40,31 @@
 - https://www.cnblogs.com/Litsasuk/articles/18593334
 - https://blog.csdn.net/weixin_59166557/article/details/144435630
 - https://www.cnblogs.com/dghh/p/18598149
+
+### master-ast(线下awdp)
+
+**Difficulty**: ★★★★☆
+
+**Solved**: 0 / 10
+
+**fixed**: 9 / 10
+
+**Tag**: python,flask,sandbox bypass
+
+**description**: None.
+
+**hint**: None.
+
+#### Source Code
+
+- [app.py](https://github.com/litsasuk/My-CTF-Web-Challenges/blob/main/国城杯-2024/master_ast(awdp)/app.py)
+
+#### Solution
+
+#### Inspiration
+
+参考了一位大佬的推文https://x.com/emil_lerner/status/1369221697145016322，当时觉得这个思路很妙就拿来出题了。研究了一下怎么构造出"/"但是由于和题目环境不太兼容然后就没考。
+
+#### Write Ups
+
+- TBD
