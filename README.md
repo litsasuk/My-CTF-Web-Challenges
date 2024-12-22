@@ -43,20 +43,4 @@
 
 ### master-ast(线下awdp)
 
-**Difficulty**: ★★★★☆
-
-**Solved**: 0 / 10
-
-**fixed**: 9 / 10
-
-**Tag**: python,flask,sandbox bypass
-
-**description**: None.
-
-**hint**: None.
-
-#### Source Code
-
-- [app.py](https://github.com/litsasuk/My-CTF-Web-Challenges/blob/main/国城杯-2024/master_ast(awdp)/app.py)
-
-- TBD
+TBD
