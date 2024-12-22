@@ -61,7 +61,7 @@
 
 #### Solution
 
-- just a very ez sandbox bypass
+- master can do this easily
 
 #### Inspiration
 
