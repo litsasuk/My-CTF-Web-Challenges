@@ -60,6 +60,9 @@
 - [app.py](https://github.com/litsasuk/My-CTF-Web-Challenges/blob/main/国城杯-2024/master_ast(awdp)/app.py)
 
 #### Solution
+- bypass BLACK_LIST = ['\'', '\"', '(', ')']
+- bypass check_ast(no import、no call)
+- bypass safe_globals
 
 #### Inspiration
 
