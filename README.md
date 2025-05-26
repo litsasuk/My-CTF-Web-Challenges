@@ -100,8 +100,8 @@
 
 #### Inspiration
 
-Baby^h-master-php-2017其中的一个小点。
+Baby^h-master-php-2017其中的一个小点，题目名为君の名は也是因为这道题的主要思路就是寻找匿名函数的名字。
 
 #### Write Ups
 
-- https://www.cnblogs.com/Litsasuk/articles/18896993
+- [litsasuk的博客](https://www.cnblogs.com/Litsasuk/articles/18896993)
