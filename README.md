@@ -72,3 +72,36 @@
 #### Write Ups
 
 - [先知](https://xz.aliyun.com/t/16869)
+
+## LitCTF2025
+
+### 君の名は
+
+**Difficulty**: ★★★☆☆
+
+**Solved**: 16 / 613
+
+**Tag**: PHP, unserialize, Anonymous Function, native class
+
+**description**: None
+
+**hint**: None
+
+#### Source Code
+
+- [index.php](https://github.com/litsasuk/My-CTF-Web-Challenges/blob/main/LitCTF2025/web-%E5%90%9B%E3%81%AE%E5%90%8D%E3%81%AF/html/index.php)
+
+#### Solution
+
+1. 构造pop链
+2. 寻找可以调用方法的原生类
+3. 找到匿名函数的名称规则
+4. 绕过数据开头检测
+
+#### Inspiration
+
+Baby^h-master-php-2017其中的一个小点。
+
+#### Write Ups
+
+- https://www.cnblogs.com/Litsasuk/articles/18896993
