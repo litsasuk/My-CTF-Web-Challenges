@@ -73,7 +73,7 @@
 
 - [先知](https://xz.aliyun.com/t/16869)
 
-## LitCTF2025
+## LitCTF-2025
 
 ### 君の名は
 
